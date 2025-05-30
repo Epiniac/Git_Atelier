@@ -24,7 +24,7 @@ Construire une application web interactive qui affiche des statistiques d’acti
 
 ## 📁 Structure du projet
 ```
-/teampulse
+/Git_Atelier
 ├── frontend/         # Interface web (HTML/CSS/JS ou React)
 ├── data/             # Sources de données JSON ou CSV
 ├── backend/          # API Flask (facultative)
