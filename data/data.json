@@ -1,0 +1,50 @@
+[
+  {
+    "nom": "Denys",
+    "commits": 42,
+    "taches": ["BG de la Street"],
+    "derniereActivite": "2025-05-28"
+  },
+  {
+    "nom": "Namiko",
+    "commits": 31,
+    "taches": ["Miss HETIC"],
+    "derniereActivite": "2025-05-27"
+  },
+  {
+    "nom": "Alice",
+    "commits": 14,
+    "taches": ["UI", "Filtrage"],
+    "derniereActivite": "2025-05-28"
+  },
+  {
+    "nom": "Bob",
+    "commits": 9,
+    "taches": ["API", "Graphique"],
+    "derniereActivite": "2025-05-27"
+  },
+  {
+    "nom": "Chloé",
+    "commits": 12,
+    "taches": ["CSS", "Refactoring"],
+    "derniereActivite": "2025-05-29"
+  },
+  {
+    "nom": "David",
+    "commits": 7,
+    "taches": ["Tests", "CI/CD"],
+    "derniereActivite": "2025-05-25"
+  },
+  {
+    "nom": "Emma",
+    "commits": 15,
+    "taches": ["Dashboard", "Accessibilité"],
+    "derniereActivite": "2025-05-30"
+  },
+  {
+    "nom": "Farid",
+    "commits": 11,
+    "taches": ["Back-end", "Documentation"],
+    "derniereActivite": "2025-05-28"
+  }
+]
